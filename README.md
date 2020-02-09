@@ -29,6 +29,9 @@ Foobar2000：音乐播放器
 - 原版：https://www.foobar2000.org/download
 - 汉化版：http://www.foobar2000.com.cn/
 
+Geek Uninstaller：卸载工具
+- https://geekuninstaller.com/download
+
 格式工厂：格式转换工具
 - http://www.pcfreetime.com/formatfactory/CN/index.html
 
@@ -37,3 +40,46 @@ Internet Download Manager：多线程下载工具
 
 iSlide：PPT插件
 - https://api.islide.cc/download/package
+
+IsMyLcdOK：屏幕测试软件
+- http://www.softwareok.com/?seite=Microsoft/IsMyLcdOK
+
+Link Shell Extension：快速创建链接
+- https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html
+
+Microsoft Edge：Chrome做得到吗？！（指云同步）
+- https://www.microsoft.com/en-us/edge
+
+Nvidia CUDA
+- https://developer.nvidia.com/cuda-downloads
+
+苹果录屏大师
+- https://dl2.itools.cn/airplayer/AirPlayer.zip
+
+Powershell
+- https://github.com/PowerShell/PowerShell/releases
+
+PrimoCache
+- https://www.romexsoftware.com/zh-cn/primo-cache/download.html
+
+qBittorrent (Enhanced Edition)
+- https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases
+
+Rufus：轻松创建启动盘（他们自己写的）
+- http://rufus.ie/
+
+ScreenToGif：屏幕，摄像头和白板录像机与集成编辑器（他们自己写的）
+- https://github.com/NickeManarin/ScreenToGif/releases
+
+SpaceSniffer：可视化文件大小
+- http://www.uderzo.it/main_products/space_sniffer/download.html
+
+TeamViewer：远程桌面
+- https://www.teamviewer.com/download/windows/
+
+Voukoder：让Premiere用上NVENC
+- 本体：https://github.com/Vouk/voukoder/releases
+- 连接器：https://github.com/Vouk/voukoder-connectors
+
+Visual Studio Code：超级记事本
+- https://code.visualstudio.com/
