@@ -81,5 +81,5 @@ Voukoder：让Premiere用上NVENC
 - 本体：https://github.com/Vouk/voukoder/releases
 - 连接器：https://github.com/Vouk/voukoder-connectors
 
-Visual Studio Code：超级记事本
+Visual Studio Code：一个NB的记事本
 - https://code.visualstudio.com/
