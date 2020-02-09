@@ -25,7 +25,7 @@ Cheat Engine：不只是改游戏
 Everything：小而快的搜索工具
 - https://www.voidtools.com/downloads/
 
-Foobar2000：音乐播放器
+Foobar2000：放歌的
 - 原版：https://www.foobar2000.org/download
 - 汉化版：http://www.foobar2000.com.cn/
 
@@ -55,6 +55,10 @@ Nvidia CUDA
 
 苹果录屏大师
 - https://dl2.itools.cn/airplayer/AirPlayer.zip
+
+PotPlayer：放视频的
+- 官网：https://potplayer.daum.net/
+- 文件地址：https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
 
 Powershell
 - https://github.com/PowerShell/PowerShell/releases
